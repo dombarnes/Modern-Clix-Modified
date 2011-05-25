@@ -1,0 +1,110 @@
+/*
+	Description: Grid 900px Master Stylesheet
+	Media: Screen
+	Version: Sun 4th May 2008
+	Author: Rodrigo Galindez
+	Author URI: http://www.rodrigogalindez.com
+*/
+
+.col {
+	margin-right: 1.2em;
+	float: left;
+}
+
+.last {
+	margin-right: 0;
+}
+
+.span-1 {
+	width: 6.4em;
+}
+
+.nudge-1 {
+	padding-left: 7.6em;
+}
+
+.span-2 {
+	width: 14em;
+}
+
+/* La ultima columana se tiene que nudgear 1 gutter menos (1.2 em menos) */
+
+.nudge-2 {
+	padding-left: 15.2em;
+}
+
+.span-3 {
+	width: 21.6em;
+}
+
+.nudge-3 {
+	padding-left: 22.8em;
+}
+
+.span-4 {
+	width: 29.2em;
+}
+
+.nudge-4 {
+	padding-left: 30.4em;
+}
+
+.span-5 {
+	width: 36.8em;
+}
+
+.nudge-5 {
+	padding-left: 38em;
+}
+
+.span-6 {
+	width: 44.4em;
+}
+
+.nudge-6 {
+	padding-left: 45.6em;
+}
+
+.span-7 {
+	width: 52em;
+}
+
+.nudge-7 {
+	padding-left: 53.2em;
+}
+
+.span-8 {
+	width: 59.6em;
+}
+
+.nudge-8 {
+	padding-left: 60.8em;
+}
+
+.span-9 {
+	width: 67.2em;
+}
+
+.nudge-9 {
+	padding-left: 68.4em;
+}
+
+.span-10 {
+	width: 74.8em;
+}
+
+.nudge-10 {
+	padding-left: 76em;
+}
+
+.span-11 {
+	width: 71.4em;
+}
+
+.nudge-11 {
+	padding-left: 83.6em;
+}
+
+.span-12 {
+	width: 90em;
+}

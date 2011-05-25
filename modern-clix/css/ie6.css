@@ -1,0 +1,70 @@
+/*
+	Description: Modern Clix IE6 Fixes Stylesheet
+	Media: Screen
+	Version: 2 Aug, 2008
+	Author: Rodrigo Galindez
+	Author URI: http://www.rodrigogalindez.com
+*/
+
+h1 {
+	line-height: 1em;
+}
+
+ul.navlinks {
+	zoom: 1;
+}
+
+input, textarea {
+	width: 89%;
+}
+
+.navlinks li {
+	font-size: 1.3em;
+}
+
+.comment-field {
+	zoom: 1;
+}
+
+.post {
+	zoom: 1;
+}
+
+.post-meta {
+	zoom: 1;
+}
+
+.post-content {
+	width: 43.6em !important;
+	padding-left: 0px;
+}
+
+.full-image {
+	margin: 0;
+	width: 438px !important;
+	overflow: hidden;
+}
+
+.post-content p, .post-content h5, .post-content code {
+	width: auto;
+}
+
+.post-content ul, .post-content ol {
+	width: auto;
+}
+
+.submit {
+	width: 100%;
+}
+
+.comment {
+	zoom: 1;
+}
+
+#sidebar {
+	margin-right: -3px;
+}
+
+#footnotes {
+	margin-right: -3px;	
+}
